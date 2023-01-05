@@ -3,10 +3,7 @@
     padding: 0;
     font-family:'Open Sans', sans-serif;;
 }
-.logo-title{
-    display:flex; justify-content:space-between;
-    margin:80px 150px;
-}
-.logo-title ul{display:flex;
-
+.nav-tittle{
+    font-weight:800;
+    font-size:45px;
 }
